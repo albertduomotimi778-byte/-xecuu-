@@ -1,0 +1,6 @@
+{
+  "appId": "com.executive.checklist",
+  "appName": "Executive Checklist",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
